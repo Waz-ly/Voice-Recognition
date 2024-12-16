@@ -1,0 +1,41 @@
+contourpy==1.2.1
+cycler==0.12.1
+ffmpeg-python==0.2.0
+future==1.0.0
+fonttools==4.53.1
+kiwisolver==1.4.5
+matplotlib==3.9.1
+numpy==2.0.0 # use version 1.26.4 if using noisereduce
+packaging==24.1
+pillow==10.4.0
+pyparsing==3.1.2
+python-dateutil==2.9.0.post0
+scipy==1.14.0
+six==1.16.0
+
+# audioread==3.0.1
+# certifi==2024.7.4
+# cffi==1.16.0
+# charset-normalizer==3.3.2
+# decorator==5.1.1
+# idna==3.7
+# joblib==1.4.2
+# lazy_loader==0.4
+# librosa==0.10.2.post1
+# llvmlite==0.43.0
+# msgpack==1.0.8
+# noisereduce==3.0.2
+# numba==0.60.0
+# platformdirs==4.2.2
+# pooch==1.8.2
+# pycparser==2.22
+# python-dateutil==2.9.0.post0
+# requests==2.32.3
+# scikit-learn==1.5.1
+# six==1.16.0
+# soundfile==0.12.1
+# soxr==0.3.7
+# threadpoolctl==3.5.0
+# tqdm==4.66.4
+# typing_extensions==4.12.2
+# urllib3==2.2.2
